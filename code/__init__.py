@@ -1,5 +1,2 @@
-def inc(x):
-    return x + 1
-
-def test_answer():
-    assert inc(3) == 4
+from .test_me import inc
+from .test_me import test_answer
