@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name='HW2bGroup25',
     url='https://github.com/snapcat/CSC510_HW2b_Group25',
