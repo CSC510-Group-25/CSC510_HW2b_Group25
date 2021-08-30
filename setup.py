@@ -6,8 +6,8 @@ setup(
     author='Group 25',
     author_email='none',
     version='1.0.0',
-    packages=['code'],
-    install_requires=['numpy'],
+    packages=find_packages(where='code'),
+   # install_requires=['numpy'],
     license='Apache-2.0',
     description='i am a test',
 )
