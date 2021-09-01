@@ -46,4 +46,4 @@ While the prerequisites above must be satisfied prior to having your pull reques
 ## Attribution
 This Contribution conduct was adapted from [Contributing to Atom][contrib].
 
-contrib: https://github.com/atom/atom/blob/master/CONTRIBUTING.md#how-can-i-contribute
+[contrib]: https://github.com/atom/atom/blob/master/CONTRIBUTING.md#how-can-i-contribute
