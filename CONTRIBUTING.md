@@ -42,3 +42,8 @@ Please follow these steps to have your contribution considered by the maintainer
 * After you submit your pull request, verify that all status checks are passing
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+
+## Attribution
+This Contribution conduct was adapted from [Contributing to Atom][contrib].
+
+contrib: https://github.com/atom/atom/blob/master/CONTRIBUTING.md#how-can-i-contribute
