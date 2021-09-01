@@ -10,7 +10,4 @@ setup(
    install_requires=['pytest'],
    license='Apache-2.0',
    description='Howework_2b_CSC_510_Fall_2021',
-   install_requires = [
-       'pytest'
-   ],
 )
